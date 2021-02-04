@@ -1,0 +1,226 @@
+html{
+  height: 100%;
+}
+
+body {
+  background-image: url("teste.gif");
+  font-family: 'Balsamiq Sans', cursive;
+  background-repeat: repeat;
+  width: 100;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow: auto;
+  position: absolute;
+}
+
+.prof-pic {
+  border-radius: 10%;
+  position: relative;
+  top: 59px;
+  left: 194px;
+}
+
+h1 {
+padding: 20px;
+text-align: center;
+position: relative;
+font-size: 312.5%;
+top: 41px;
+left: 47px;
+}
+
+h2 {
+  font-size: 250%;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+h3{
+  margin-top: 0px;
+  text-align: center;
+  position: relative;
+  left: 52px;
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 175%;
+}
+
+p {
+   line-height: 1.4;
+}
+.contact{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  position: absolute;
+  top: 108px;
+  right: 123px;
+}
+.contact-title{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  position: absolute;
+  top: 54px;
+  right: 157px;
+}
+
+.top-container{
+  background-image: url("title.png");
+  background-repeat: no-repeat;
+  margin: 0px;
+  height: 600px;
+  width: 1000px;
+  position: relative;
+  right: 150px;
+
+}
+
+
+.top-p {
+  text-align: center;
+  font-size: 137.5%;
+  position: relative;
+  top: 12px;
+  left: 33px;
+
+}
+
+.contact-container{
+  background-image: url("conact.png");
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 600px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 33px;
+  left: 690px;
+
+}
+.contact-box {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  position: relative;
+  left: 39px;
+}
+.middle-container {
+  background-image: url("about-1.png");
+  height: 600px;
+  width: 600px;
+  text-align: center;
+  position: relative;
+  bottom: 377px;
+  right: 66px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.about-1-box {
+  width: 350px;
+  font-size: 125%;
+  position: relative;
+  top: 94px;
+  left: 107px;
+
+
+}
+
+.middle-container-2 {
+  background-image: url("about-2.png");
+  height: 600px;
+  width: 600px;
+  text-align: center;
+  position: relative;
+  bottom: 1017px;
+  left: 376px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.about-2-box {
+  width: 350px;
+  font-size: 125%;
+  text-align: center;
+  position: relative;
+  top: 94px;
+  left: 127px;
+}
+.skills-title{
+  position: relative;
+  right: 25px;
+
+}
+
+.skills-subtitle{
+  position: relative;
+  right: 25px;
+  font-size: 154%;
+  position: relative;
+  bottom: 28px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  position: relative;
+  left: 84px;
+  bottom: 25px;
+  bottom: 50px;
+}
+
+.middle-container-3 {
+  background-image: url("about-3.png");
+  height: 600px;
+  width: 500px;
+  position: relative;
+  bottom: 1657px;
+  left: 819px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.about-3-box {
+  width: 350px;
+  font-size: 125%;
+  text-align: center;
+  position: relative;
+  top: 94px;
+  left: 94px;
+}
+.hobbies-title{
+  position: relative;
+  left: 7px;
+}
+.hobbies-subtitle{
+  font-size: 154%;
+  position: relative;
+  bottom: 28px;
+}
+.hobbies-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  position: relative;
+  left: 58px;
+}
+.footer{
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  bottom: 1751px;
+  left: 514px;
+  text-align: center;
+}
+.copyright {
+  margin: 0px;
+  padding: 0px;
+  line-height: normal;
+}
